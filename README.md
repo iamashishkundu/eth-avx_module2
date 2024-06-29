@@ -68,4 +68,4 @@ Then, import one of the generated accounts from the Hardhat node into MetaMask u
 
 ## License
 
-This project is licensed under the MIT License.
+[MIT License](./LICENSE)
